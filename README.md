@@ -152,7 +152,7 @@ These features are **planned and in progress**:
 
 ## 👨‍💻 Author & Credits
 **HandSync**  
-© 2025 **Prince Raj Singh**  
+© 2025 **Prince Raj Singh** & **K. Harish** 
 Group: **Carnage Sentinels**
 
 Built using:
