@@ -55,11 +55,12 @@ Instead of fixed distances, **your own hand becomes the ruler**.
 
 | Gesture | Action |
 |------|------|
-| ☝️ Index finger up | Move cursor |
-| 🤏 Thumb + Index pinch | Left click |
-| ☝️ + sudden jerk | Natural click |
-| ☝️ + ✌️ (Index + Middle) | Scroll |
-| Hold pinch | Drag‑safe (cursor freeze) |
+| ☝️ Index finger up (Middle & Pinky down) | Move cursor |
+| 🤏 Thumb + Index pinch (short <0.4s) | Left click |
+| 🤏 Thumb + Index pinch (hold >0.4s) | Drag |
+| ☝️ + ✌️ (Index + Middle up) | Scroll (move hand up/down) |
+| 👍 + 🖕 (Thumb + Pinky up, Index down) | Volume control (move hand up/down) |
+| ☝️ + 🖕 (Index + Pinky up, Middle down) | Sniper mode (slow, precise cursor) |
 | Hand out of frame | Idle / Safe mode |
 
 ---
